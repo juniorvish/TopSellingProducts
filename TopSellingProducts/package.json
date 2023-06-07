@@ -1,0 +1,19 @@
+{
+  "name": "TopSellingProducts",
+  "version": "1.0.0",
+  "description": "A Node.js application to find the top selling products in a Magento store",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/juniorvish/TopSellingProducts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1"
+  }
+}
