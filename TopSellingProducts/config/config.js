@@ -1,0 +1,9 @@
+const MAGENTO_API_KEY = process.env.MAGENTO_API_KEY;
+const MAGENTO_API_SECRET = process.env.MAGENTO_API_SECRET;
+const MAGENTO_BASE_URL = process.env.MAGENTO_BASE_URL;
+
+module.exports = {
+  MAGENTO_API_KEY,
+  MAGENTO_API_SECRET,
+  MAGENTO_BASE_URL,
+};
